@@ -8,4 +8,4 @@ todateest
 
 git checkout
 
-git commit
+git commit --amend
