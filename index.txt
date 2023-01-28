@@ -9,3 +9,6 @@ todateest
 git checkout
 
 git commit --amend
+
+
+git mearge test
